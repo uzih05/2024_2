@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/HW5_4/cmake-build-debug/CMakeFiles/HW5_4.dir
+/Users/uzih05/CLionProjects/HW5_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/HW5_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/C_function/cmake-build-debug/CMakeFiles/C_function.dir
+/Users/uzih05/CLionProjects/C_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/C_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
