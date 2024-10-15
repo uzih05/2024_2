@@ -3,4 +3,5 @@ project(4 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(4 main.c)
+add_executable(4 main.c
+        ../../Downloads/HW_123/main.c)

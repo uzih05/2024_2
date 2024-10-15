@@ -23,7 +23,32 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f147f51-1e84-48d8-907c-a77f7c70e2f5" name="Changes" comment="" />
+    <list default="true" id="4f147f51-1e84-48d8-907c-a77f7c70e2f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b7d4cb9dcf0f566c72c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e1e3ba18de914eef2f5e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-02T00-58-13-0879.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.cmake/api/v1/reply/target-4-Debug-5a569f6b0ada336133ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../2/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../2/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../2/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../6/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_4/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5_6/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5_6/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +58,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
@@ -56,6 +84,7 @@
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -78,6 +107,11 @@
       <workItem from="1727830961582" duration="254000" />
       <workItem from="1727832527272" duration="1000" />
       <workItem from="1727832600898" duration="1000" />
+      <workItem from="1728879048543" duration="3000" />
+      <workItem from="1728879864616" duration="5000" />
+      <workItem from="1728881715554" duration="3000" />
+      <workItem from="1728881721060" duration="5000" />
+      <workItem from="1728882034000" duration="2000" />
     </task>
     <servers />
   </component>
