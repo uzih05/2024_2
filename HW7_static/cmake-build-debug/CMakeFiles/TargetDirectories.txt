@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/static/cmake-build-debug/CMakeFiles/static.dir
+/Users/uzih05/CLionProjects/static/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/static/cmake-build-debug/CMakeFiles/rebuild_cache.dir
