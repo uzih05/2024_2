@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/재귀함수(n^k승 계산)/cmake-build-debug/CMakeFiles/_n_k__.dir
+/Users/uzih05/CLionProjects/재귀함수(n^k승 계산)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/재귀함수(n^k승 계산)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
