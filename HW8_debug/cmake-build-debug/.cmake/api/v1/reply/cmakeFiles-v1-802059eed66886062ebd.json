@@ -660,8 +660,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/uzih05/CLionProjects/HW8_1/cmake-build-debug",
-		"source" : "/Users/uzih05/CLionProjects/HW8_1"
+		"build" : "/Users/uzih05/CLionProjects/HW8_debug/cmake-build-debug",
+		"source" : "/Users/uzih05/CLionProjects/HW8_debug"
 	},
 	"version" : 
 	{
