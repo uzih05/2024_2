@@ -1,0 +1,5 @@
+# ninja log v6
+0	36	1730252866623676015	CMakeFiles/memory_check.dir/main.c.o	bd857075d3782eaa
+0	26	1730252906506283093	CMakeFiles/memory_check.dir/main.c.o	bd857075d3782eaa
+1	29	1730252956983660256	CMakeFiles/memory_check.dir/main.c.o	bd857075d3782eaa
+29	62	1730252957011672123	memory_check	ef6041640ea6d63c

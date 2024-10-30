@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/memory_check/cmake-build-debug/CMakeFiles/memory_check.dir
+/Users/uzih05/CLionProjects/memory_check/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/memory_check/cmake-build-debug/CMakeFiles/rebuild_cache.dir
