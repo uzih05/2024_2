@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/student_name_address_test/cmake-build-debug/CMakeFiles/student_name_address_test.dir
+/Users/uzih05/CLionProjects/student_name_address_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/student_name_address_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

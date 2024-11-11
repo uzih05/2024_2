@@ -1,0 +1,11 @@
+10
+6801 Cho Jeonju 98
+6802 Park Seoul 67
+6803 Lee Jeonju 77
+6804 Yoon Ulsan 82
+6805 Seo Daejun 95
+6806 Kim Suwon 53
+6807 Yoo Seoul 88
+6808 Choi Gwangju 72
+6809 Kang Nonsan 82
+6810 Lee Jeonju 69

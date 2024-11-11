@@ -1,0 +1,3 @@
+/Users/uzih05/CLionProjects/pointer_ex11/cmake-build-debug/CMakeFiles/pointer_ex11.dir
+/Users/uzih05/CLionProjects/pointer_ex11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzih05/CLionProjects/pointer_ex11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
